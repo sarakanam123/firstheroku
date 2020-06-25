@@ -1,0 +1,18 @@
+{
+  "name": "weather-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^2.1.1",
+    "bot": "0.0.3",
+    "node-telegram": "^1.0.6",
+    "node-telegram-bot-api": "^0.50.0",
+    "request": "^2.88.2"
+  }
+}
